@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Eigen",
+    "\\Eigen\\src",
+    "\\Eigen\\src\\QR"
+  ],
+  "SelectedNode": "\\Eigen\\src\\QR\\FullPivHouseholderQR.h",
+  "PreviewInSolutionExplorer": false
+}
